@@ -1,0 +1,21 @@
+5
+978-0596009205
+Java: How to Program
+Paul J. Deitel
+10
+978-9332563292
+Head First Java
+Kathy Sierra
+5
+978-1118408032
+Java All-in-One For Dummies
+Doug Lowe
+2
+978-1617291999
+Java 8 in Action
+Raoul-Gabriel Urma
+19
+978-1840786217
+Java In Easy Steps
+Mike McGrath
+12

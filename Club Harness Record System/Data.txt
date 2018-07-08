@@ -1,0 +1,6 @@
+5
+PETZL, 4576, Robbie Jennings
+PETZL, 2671, Frank Franklin
+SafetyPlus, A67B2, Robbie Jennings, 7, on loan, Bill Williams
+SafetyPlus, B48Y7, John Johnson
+SafetyPlus, A76U2, John Johnson, 2, not on loan
